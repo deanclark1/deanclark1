@@ -12,5 +12,5 @@ HTML5 | CSS3 | JavaScript ES6+ | wordpress | php |
 
 ## Reach out to me via these links:
 
-- Portfolio: deanclark1.github.io/DoreenNtumy/
+- Portfolio: https://deanclark1.github.io/DoreenNtumy/
 - Twitter: www.twitter.com/doreenNtumy
