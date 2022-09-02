@@ -8,7 +8,7 @@ HTML5 | CSS3 | JavaScript ES6+ | wordpress | php |
 ### At The Moment I'm..
 - Learning the weird parts of JS 
 - Building fun projects
-- reading and youtubin' lots of topics 📚
+- Learning how to surf
 
 ## Reach out to me via these links:
 
