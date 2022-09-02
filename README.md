@@ -1,28 +1,16 @@
+# Hi there, I'm Doreen Ntumy (she/They) 🚀
 
-<h1 align="center">Hi 👋, I'm Doreen Esinam Akosua Ntumy (Dean)</h1>
-<h3 align="center">I am Adept at contributing to a highly collaborative environment, finding solutions, and delivering customer satisfaction</h3>
+I’m a self-learning Front End Developer & a UI/UX Designer with experience working on finding solutions, implementing elegant, easy to read and responsive user interfaces to boost user experience & customer satisfaction. I am passionate about accessibility in web development, clean codes & best practices.
 
-Here's what I do:
+## Current Skill Set
+HTML5 | CSS3 | JavaScript ES6+ | wordpress | php |
 
+### At The Moment I'm..
+- Learning the weird parts of JS 🚀
+- Building fun projects
+- reading and youtubin' lots of topics 📚
 
-- Web Development
+## Reach out to me via these links:
 
-- UI/UX Designs
-
-- Wordpress theme development
-
-- Photography
-
-- Surfing
-
----
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=deanclark1&theme=white)](https://git.io/streak-stats)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=deanclark1&layout=compact)
-
-
-
-
-
-
+- Portfolio: deanclark1.github.io/DoreenNtumy/
+- Twitter: www.twitter.com/doreenNtumy
