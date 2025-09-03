@@ -12,5 +12,5 @@ HTML | CSS | JavaScript| React| WordPress | PHP
 
 ## Reach out to me via these links:
 
-- Portfolio: https://deanclark1.github.io/DoreenNtumy/
-- Twitter: www.twitter.com/doreenNtumy
+- Portfolio: https://doreenntumy.com/
+- Email: ntumydoreen@gmail.com
