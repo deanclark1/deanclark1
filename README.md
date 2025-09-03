@@ -9,8 +9,3 @@ HTML | CSS | JavaScript| React| WordPress | PHP
 - Learning the weird parts of JS 
 - Building fun projects
 - Learning how to surf
-
-## Reach out to me via these links:
-
-- Portfolio: https://doreenntumy.com/
-- Email: ntumydoreen@gmail.com
