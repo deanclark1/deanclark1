@@ -3,7 +3,7 @@
 I’m a self-learning Front End Developer & a UI/UX Designer with experience working on finding solutions, implementing elegant, easy to read and responsive user interfaces to boost user experience & customer satisfaction. I am passionate about accessibility in web development, clean codes & best practices.
 
 ## Current Skill Set
-HTML | CSS | JavaScript| React| WordPress | PHP 
+JavaScript| React| WordPress | PHP | HTML | CSS 
 
 ### At The Moment I'm..
 - Learning the weird parts of JS 
